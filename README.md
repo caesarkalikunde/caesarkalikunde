@@ -49,6 +49,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://mw.linkedin.com/in/ckalikunde)
 [![Email Badge](https://img.shields.io/badge/Email-ckalikunde%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ckalikunde@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-green)](https://caekali.github.io)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-green)](https://caesarkalikunde.github.io)
 
 
